@@ -91,14 +91,6 @@ The updated file will also include the full details (rows) for the missing varia
 - **SCADA Systems**: Manage variable definitions and update missing entries, as in projects like Zenon.
 - **General CSV Handling**: Compare and merge data from multiple CSV files in any domain.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, submit pull requests, or suggest new features.
-
 ---
 
 This tool simplifies the process of comparing and updating data in CSV files, ensuring consistency and saving time.
